@@ -1,0 +1,6 @@
+configuracion base de datos mysql:
+
+direccion:	ingweb2016.cloudapp.net
+usuario:	ing
+contraseña:	ing
+base de datos:	ingweb
